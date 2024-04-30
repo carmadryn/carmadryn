@@ -1,5 +1,5 @@
 <h1 align="center">Hola 🙋‍♀️, Soy Carla</h1>
-<h3 align="center">Hello !! Les cuento un poco de mí... Como diseñadora de vieja escuela, he aprendido a apreciar los fundamentos del diseño y cómo aplicarlos en diferentes contextos. Con el tiempo, he evolucionado hacia el diseño UX/UI y he ampliado estudios en WORDPRESS Y  actualmente en DESARROLLO WEB, lo que me permite trabajar más eficientemente y tener una comprensión COMPLETA de los proyectos en los que participo.<br> También soy Licenciada en Nutrición y mi experiencia laboral me ha otorgado muchas aptitudes como profesional y como persona <br> Como entusiasta del aprendizaje constante, estoy comprometida a mejorar mis habilidades y conocimientos continuamente.🌿</h3>
+<h3 align="center">Hello !! Les cuento un poco de mí... Como diseñadora de vieja escuela, he aprendido a apreciar los fundamentos del diseño y cómo aplicarlos en diferentes contextos. Con el tiempo, he evolucionado hacia el diseño UX/UI y he ampliado estudios en WORDPRESS Y  actualmente en DESARROLLO WEB, lo que me permite trabajar más eficientemente y tener una comprensión COMPLETA de los proyectos en los que participo. <br> Como entusiasta del aprendizaje constante, estoy comprometida a mejorar mis habilidades y conocimientos continuamente.🌿</h3>
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
