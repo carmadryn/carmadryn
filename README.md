@@ -1,5 +1,5 @@
 <h1 align="center">Hola 🙋‍♀️, Soy Carla</h1>
-<h3 align="center"> Les cuento un poco de mí... Como diseñadora de vieja escuela, he aprendido a apreciar los fundamentos del diseño y cómo aplicarlos en diferentes contextos. terminó siendo un hobbie que evolucionó hacia el diseño UX/UI y WORDPRESS, DESARROLLO WEB y actualmente estudiando PROGRAMACION lo que me permite trabajar más eficientemente y tener una comprensión COMPLETA de los proyectos en los que participo.🌿</h3>
+<h3 align="center"> Les cuento un poco de mí... Como diseñadora he aprendido a apreciar los fundamentos del diseño y cómo aplicarlos en diferentes contextos, he ampliado conocimientos en diseño UX/UI, WORDPRESS, DESARROLLO WEB y actualmente entrando al mundo de la PROGRAMACION lo que me permitirá trabajar más eficientemente y tener una comprensión COMPLETA de los proyectos en los que participo.🌿</h3>
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
